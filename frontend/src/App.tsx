@@ -7,7 +7,7 @@ interface Todo {
   completed: boolean;
 }
 
-const API_URL = "http://localhost:3001/todos";
+const API_URL = "https://todo-app-o04q.onrender.com/todos";
 
 type Filter = "all" | "active" | "completed";
 
