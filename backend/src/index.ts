@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 3001;
 const DATA_FILE = path.join(__dirname, "..", "todos.json");
 
 app.use(cors({
-  origin: "https://todo-app-ten-alpha-26.vercel.app/"
+  origin: "https://todo-app-ten-alpha-26.vercel.app"
 }));
 app.use(express.json());
 
