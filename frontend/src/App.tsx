@@ -106,6 +106,9 @@ function App() {
           </li>
         ))}
       </ul>
+      <footer className="footer">
+        Created by <a href="https://github.com/Arintan" target="_blank" rel="noopener noreferrer">Chor Yeong Tan</a>
+      </footer>
     </div>
   );
 }

@@ -54,3 +54,10 @@
   cursor: pointer;
   font-size: 1rem;
 }
+
+.footer {
+  margin-top: 32px;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #999;
+}
